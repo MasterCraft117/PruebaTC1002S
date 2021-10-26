@@ -1,0 +1,6 @@
+Buenas la neta no sé que más hacer xdxdxd
+
+Lineas para llenar espacio
+
+A=1+1
+print A
